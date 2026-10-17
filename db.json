@@ -1,7 +1,139 @@
 {
-    "student":[
-        {
-            
-        }
-    ]
+  "resume": [
+    {
+      "fullName": "Abel Simson",
+      "location": "thrissur",
+      "address": "",
+      "job": "Frontend Developer",
+      "email": "abelsimson6@gmail.com",
+      "phone": "9876543210",
+      "linkedin": "linkedin",
+      "github": "github",
+      "degree": "bsc",
+      "college": "thrissur",
+      "year": "2026",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross-Browser Compatibility",
+        "Web Accessibility"
+      ],
+      "summary": "Creative frontend developer skilled in building responsive, accessible, and user-friendly web interfaces with modern frontend technologies.",
+      "id": 1
+    },
+    {
+      "fullName": "abel",
+      "location": "",
+      "address": "",
+      "job": "Backend Developer",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Java",
+        "REST APIs",
+        "Authentication",
+        "Authorization",
+        "Databases",
+        "API Security",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure, scalable, and high-performance server-side applications, APIs, and database solutions.",
+      "id": 2
+    },
+    {
+      "fullName": "Abel Simson",
+      "location": "",
+      "address": "",
+      "job": "React Developer",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "Hooks",
+        "Context API",
+        "React Router",
+        "Redux",
+        "REST APIs",
+        "Performance Optimization",
+        "Testing"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, modern hooks, state management, and high-performance user interfaces.",
+      "id": 3
+    },
+    {
+      "fullName": "Abel Simson",
+      "location": "kochi",
+      "address": "",
+      "job": "React Developer",
+      "email": "abelsimso@gmail.com",
+      "phone": "wkpewoc",
+      "linkedin": "pcpe",
+      "github": "wcpocec",
+      "degree": "bsc",
+      "college": "thrissur",
+      "year": "2026",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "Hooks",
+        "Context API",
+        "React Router",
+        "Redux",
+        "REST APIs",
+        "Performance Optimization",
+        "Testing"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, modern hooks, state management, and high-performance user interfaces.",
+      "id": 4
+    },
+    {
+      "fullName": "akhil",
+      "location": "mannuthy",
+      "address": "",
+      "job": "Blockchain Developer",
+      "email": "akhil6@gmail.com",
+      "phone": "99999999999",
+      "linkedin": "vjghvhg",
+      "github": "jhvjhv",
+      "degree": "diploma",
+      "college": "mts",
+      "year": "2023",
+      "skills": [
+        "Blockchain",
+        "Solidity",
+        "Smart Contracts",
+        "Ethereum",
+        "Web3.js",
+        "Ethers.js",
+        "Cryptography",
+        "DeFi",
+        "Wallet Integration",
+        "Git"
+      ],
+      "summary": "Blockchain developer experienced in building decentralized applications and smart contracts using blockchain platforms, Web3 technologies, and secure development practices.",
+      "id": 5
+    }
+  ]
 }
